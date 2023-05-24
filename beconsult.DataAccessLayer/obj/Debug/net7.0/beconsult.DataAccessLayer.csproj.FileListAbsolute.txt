@@ -1,0 +1,12 @@
+H:\VS2022source\beconsult.Api\beconsult.DataAccessLayer\bin\Debug\net7.0\beconsult.DataAccessLayer.deps.json
+H:\VS2022source\beconsult.Api\beconsult.DataAccessLayer\bin\Debug\net7.0\beconsult.DataAccessLayer.dll
+H:\VS2022source\beconsult.Api\beconsult.DataAccessLayer\bin\Debug\net7.0\beconsult.DataAccessLayer.pdb
+H:\VS2022source\beconsult.Api\beconsult.DataAccessLayer\obj\Debug\net7.0\beconsult.DataAccessLayer.csproj.AssemblyReference.cache
+H:\VS2022source\beconsult.Api\beconsult.DataAccessLayer\obj\Debug\net7.0\beconsult.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\VS2022source\beconsult.Api\beconsult.DataAccessLayer\obj\Debug\net7.0\beconsult.DataAccessLayer.AssemblyInfoInputs.cache
+H:\VS2022source\beconsult.Api\beconsult.DataAccessLayer\obj\Debug\net7.0\beconsult.DataAccessLayer.AssemblyInfo.cs
+H:\VS2022source\beconsult.Api\beconsult.DataAccessLayer\obj\Debug\net7.0\beconsult.DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\VS2022source\beconsult.Api\beconsult.DataAccessLayer\obj\Debug\net7.0\beconsult.DataAccessLayer.dll
+H:\VS2022source\beconsult.Api\beconsult.DataAccessLayer\obj\Debug\net7.0\refint\beconsult.DataAccessLayer.dll
+H:\VS2022source\beconsult.Api\beconsult.DataAccessLayer\obj\Debug\net7.0\beconsult.DataAccessLayer.pdb
+H:\VS2022source\beconsult.Api\beconsult.DataAccessLayer\obj\Debug\net7.0\ref\beconsult.DataAccessLayer.dll
