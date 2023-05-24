@@ -1,0 +1,12 @@
+C:\Users\Frank\Documents\GitHub\beconsult\beconsult.DataAccessLayer\bin\Release\net7.0\beconsult.DataAccessLayer.deps.json
+C:\Users\Frank\Documents\GitHub\beconsult\beconsult.DataAccessLayer\bin\Release\net7.0\beconsult.DataAccessLayer.dll
+C:\Users\Frank\Documents\GitHub\beconsult\beconsult.DataAccessLayer\bin\Release\net7.0\beconsult.DataAccessLayer.pdb
+C:\Users\Frank\Documents\GitHub\beconsult\beconsult.DataAccessLayer\obj\Release\net7.0\beconsult.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\GitHub\beconsult\beconsult.DataAccessLayer\obj\Release\net7.0\beconsult.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\Documents\GitHub\beconsult\beconsult.DataAccessLayer\obj\Release\net7.0\beconsult.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Frank\Documents\GitHub\beconsult\beconsult.DataAccessLayer\obj\Release\net7.0\beconsult.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Frank\Documents\GitHub\beconsult\beconsult.DataAccessLayer\obj\Release\net7.0\beconsult.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\GitHub\beconsult\beconsult.DataAccessLayer\obj\Release\net7.0\beconsult.DataAccessLayer.dll
+C:\Users\Frank\Documents\GitHub\beconsult\beconsult.DataAccessLayer\obj\Release\net7.0\refint\beconsult.DataAccessLayer.dll
+C:\Users\Frank\Documents\GitHub\beconsult\beconsult.DataAccessLayer\obj\Release\net7.0\beconsult.DataAccessLayer.pdb
+C:\Users\Frank\Documents\GitHub\beconsult\beconsult.DataAccessLayer\obj\Release\net7.0\ref\beconsult.DataAccessLayer.dll

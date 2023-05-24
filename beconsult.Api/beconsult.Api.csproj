@@ -12,7 +12,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\beconsult.DataAccessLayer\beconsult.DataAccessLayer.csproj" />
+    <Folder Include="Libs\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="beconsult.DataAccessLayer">
+      <HintPath>Libs\beconsult.DataAccessLayer.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
